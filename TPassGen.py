@@ -16,4 +16,6 @@ def passwdPattern(user_inpput):
     print(string)
 
 user_input = input("Enter the string of characters you want to concatenate: ")
+Dstart = int(input("Enter the starting year: "))
+Dend = int(input("Enter the ending year: "))
 passwdPattern(user_input)
