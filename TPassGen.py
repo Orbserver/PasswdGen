@@ -15,5 +15,5 @@ def passwdPattern(user_inpput):
     string = "\n".join(comb)
     print(string)
 
-user_input = input("Introduce una cadena de caracteres: ")
+user_input = input("Enter the string of characters you want to concatenate: ")
 passwdPattern(user_input)
