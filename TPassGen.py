@@ -1,6 +1,3 @@
-Dstart = 2018
-Dend = 2024
-
 def passwdPattern(user_inpput):
     comb = []
 
